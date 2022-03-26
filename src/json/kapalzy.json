@@ -1,0 +1,100 @@
+[
+    {
+        "asal": "Merak",
+        "tujuan": "Bakauheni",
+        "jam": "15.30 WIB",
+        "tanggal": "2022/03/28",
+        "layanan": "VIP"
+    },
+    {
+        "asal": "Merak",
+        "tujuan": "Bakauheni",
+        "jam": "15.30 WIB",
+        "tanggal": "2022/03/28",
+        "layanan": "Eksekutif"
+    },
+    {
+        "asal": "Merak",
+        "tujuan": "Bakauheni",
+        "jam": "12.00 WIB",
+        "tanggal": "2022/03/28",
+        "layanan": "Ekonomi"
+    },
+    {
+        "asal": "Merak",
+        "tujuan": "Belawan",
+        "jam": "15.30 WIB",
+        "tanggal": "2022/03/30",
+        "layanan": "VIP"
+    },
+    {
+        "asal": "Jambi",
+        "tujuan": "Belawan",
+        "jam": "15.30 WIB",
+        "tanggal": "2022/03/30",
+        "layanan": "VIP"
+    },
+    {
+        "asal": "Merak",
+        "tujuan": "Jambi",
+        "jam": "15.30 WIB",
+        "tanggal": "2022/03/30",
+        "layanan": "VIP"
+    },
+    {
+        "asal": "Merak",
+        "tujuan": "Bakauheni",
+        "jam": "15.30 WIB",
+        "tanggal": "2022/03/30",
+        "layanan": "VIP"
+    },
+    {
+        "asal": "Merak",
+        "tujuan": "Bakauheni",
+        "jam": "09.00 WIB",
+        "tanggal": "2022/03/29",
+        "layanan": "VIP"
+    },
+    {
+        "asal": "Belawan",
+        "tujuan": "Bakauheni",
+        "jam": "09.00 WIB",
+        "tanggal": "2022/03/29",
+        "layanan": "Ekonomi"
+    },
+    {
+        "asal": "Belawan",
+        "tujuan": "Merak",
+        "jam": "09.00 WIB",
+        "tanggal": "2022/03/28",
+        "layanan": "VIP"
+    },
+    {
+        "asal": "Jambi",
+        "tujuan": "Belawan",
+        "jam": "15.30 WIB",
+        "tanggal": "2022/03/28",
+        "layanan": "VIP"
+    },
+    {
+        "asal": "Bakauheni",
+        "tujuan": "Belawan",
+        "jam": "12.00 WIB",
+        "tanggal": "2022/03/28",
+        "layanan": "VVIP"
+    },
+    {
+        "asal": "Merak",
+        "tujuan": "Bakauheni",
+        "jam": "18.00 WIB",
+        "tanggal": "2022/03/29",
+        "layanan": "VVIP"
+    },
+    {
+        "asal": "Merak",
+        "tujuan": "Bakauheni",
+        "jam": "07.00 WIB",
+        "tanggal": "2022/03/29",
+        "layanan": "VVIP"
+    }
+]
